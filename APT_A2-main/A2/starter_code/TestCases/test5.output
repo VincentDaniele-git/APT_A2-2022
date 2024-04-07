@@ -1,0 +1,43 @@
+
+Welcome to Scrabble!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+> 
+Enter the file name from which to load a game
+> 
+Scrabble game successfully loaded
+
+ANGELINE, it's your turn!
+Score for ANGELINE: 59
+Score for BRYAN: 0
+    0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+  -------------------------------------------------------------
+A |   | A | P | I | T | N | O | E |   |   |   |   |   |   |   | 
+B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+H |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | 
+Your hand is 
+H-4, S-1
+
+> > Game over
+Score for ANGELINE: 64
+Score for BRYAN: 0
+Player ANGELINE won!
+
+Goodbye

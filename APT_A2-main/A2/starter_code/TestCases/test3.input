@@ -1,0 +1,18 @@
+2
+saveGameFile3
+Place A at A1
+place A at A1
+place P at A2
+place I at A3
+place T at A4
+place N at A5
+place O at A6
+place E at A7
+Replace A
+replace A
+replace T
+Pass
+pass
+save saveGameFile3b
+quit
+^D
